@@ -1,0 +1,5 @@
+dofile function use the user function to read file 
+
+the function name should be same as the table name
+
+notice : the table name without '='
